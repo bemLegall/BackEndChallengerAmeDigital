@@ -1,4 +1,4 @@
-package br.com.backEndChallenge.AmeDigital.Model.Controller;
+package br.com.backEndChallenge.AmeDigital.Controller;
 
 import java.net.URI;
 import java.util.List;
@@ -25,7 +25,7 @@ import br.com.backEndChallenge.AmeDigital.Formulario.PlanetaFormulario;
 import br.com.backEndChallenge.AmeDigital.Model.Completo;
 import br.com.backEndChallenge.AmeDigital.Model.Planeta;
 import br.com.backEndChallenge.AmeDigital.Model.Results;
-import br.com.backEndChallenge.AmeDigital.Model.Repository.PlanetaRepository;
+import br.com.backEndChallenge.AmeDigital.Repository.PlanetaRepository;
 
 @RestController
 @RequestMapping("amedigital")

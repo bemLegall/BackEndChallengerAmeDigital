@@ -1,7 +1,7 @@
 package br.com.backEndChallenge.AmeDigital.Formulario;
 
 import br.com.backEndChallenge.AmeDigital.Model.Planeta;
-import br.com.backEndChallenge.AmeDigital.Model.Repository.PlanetaRepository;
+import br.com.backEndChallenge.AmeDigital.Repository.PlanetaRepository;
 
 public class PlanetaAtualizar {
 

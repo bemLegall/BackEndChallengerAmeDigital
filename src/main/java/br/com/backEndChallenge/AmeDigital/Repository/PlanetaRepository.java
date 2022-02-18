@@ -1,4 +1,4 @@
-package br.com.backEndChallenge.AmeDigital.Model.Repository;
+package br.com.backEndChallenge.AmeDigital.Repository;
 
 import java.util.Optional;
 
